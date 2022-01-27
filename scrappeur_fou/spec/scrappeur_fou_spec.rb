@@ -1,2 +1,2 @@
-require 'nom_de_la_gem'  : ../lib/
+require 'le scrapeur fou'  : ../lib/
 require 'pry'
